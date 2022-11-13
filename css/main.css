@@ -228,9 +228,11 @@ body {
   height: 15px;
   width: 5px;
 }
+
 *::-webkit-scrollbar-track {
   background: rgba(255, 255, 255, 0);
 }
+
 *::-webkit-scrollbar-thumb {
   background-color: #606060;
   border-radius: 5px;
